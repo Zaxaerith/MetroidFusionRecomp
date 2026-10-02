@@ -1,0 +1,20 @@
+{
+  "decomp_commit": "419e87c1c82515b05820caca009ef9ca5e8664b0",
+  "rom_sha1": "ca33f4348c2c05dd330d37b97e2c5a69531dfe87",
+  "source": "MF C @brief annotations, database.json and linker.ld",
+  "validation": "Source metadata only; no byte-matching ELF build performed",
+  "functions": 1758,
+  "excluded_conflicting_or_overlapping_addresses": [
+    "0x0800CF50",
+    "0x0800CF98",
+    "0x0800D020",
+    "0x0800D07C",
+    "0x08018F50",
+    "0x08019098",
+    "0x0803FF4C",
+    "0x08041FD0",
+    "0x08041FD4"
+  ],
+  "data_symbols": 3713,
+  "data_ranges": 2435
+}

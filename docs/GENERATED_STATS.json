@@ -1,0 +1,17 @@
+{
+  "cart": {
+    "directory": "generated/cart",
+    "bytes": 147096868,
+    "files": 12,
+    "translation_units": 11,
+    "emitted_functions": 22809
+  },
+  "bios": {
+    "directory": "generated/bios",
+    "bytes": 4022927,
+    "files": 4,
+    "translation_units": 3,
+    "emitted_functions": 770
+  },
+  "total_bytes": 151119795
+}

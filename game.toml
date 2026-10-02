@@ -1,0 +1,30 @@
+[game]
+name = "Metroid Fusion"
+short_name = "metroid_fusion"
+[program]
+name = "Metroid Fusion (USA)"
+id = "AMTE"
+load_address = 0x08000000
+size = 0x00800000
+entry_pc = 0x08000000
+codegen_shards = 8
+static_resume_all = true
+[identity]
+sha1 = "ca33f4348c2c05dd330d37b97e2c5a69531dfe87"
+[rom]
+path = "Metroid Fusion (USA).gba"
+sha1 = "ca33f4348c2c05dd330d37b97e2c5a69531dfe87"
+[bios]
+sha1 = "300c20df6731a33952ded8c436f7f186d25d3492"
+hle = false
+skip_intro = false
+[save]
+path = "saves/metroid_fusion_usa.sav"
+[runtime]
+window_title = "MetroidFusionRecomp — Experimental Preview"
+[video]
+screen = "raw"
+view_width = 240
+resize_view = false
+[audio]
+shadow = false

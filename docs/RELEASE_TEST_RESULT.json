@@ -1,0 +1,36 @@
+{
+  "zip": "MetroidFusionRecomp-windows-x64-v0.1.0-preview.zip",
+  "zip_bytes": 17540329,
+  "zip_sha256": "147654f14922851a877ddb3c26bb9b23f842202fc41684ba78c24ffe979e8c49",
+  "manifest_files_verified": 34,
+  "no_game_toml_or_compiler": true,
+  "external_working_directory": true,
+  "player_save_unchanged": true,
+  "results": {
+    "first-launch-no-assets": {
+      "exit": 0,
+      "hidden_window": true,
+      "no_desktop_automation": true
+    },
+    "cached-launcher": {
+      "exit": 0,
+      "hidden_window": true,
+      "no_desktop_automation": true
+    },
+    "cached-title": {
+      "exit": 0,
+      "coverage": "self_heal_coverage=NOT_STATIC dispatch_misses=11 interpreted_insns=3784558 healed_native=0 native_calls=0 inflight=0 failed=0"
+    },
+    "fresh-load": {
+      "exit": 0,
+      "coverage": "self_heal_coverage=NOT_STATIC dispatch_misses=16 interpreted_insns=18287917 healed_native=0 native_calls=0 inflight=0 failed=0"
+    },
+    "wrong-rom": {
+      "exit": 1
+    },
+    "wrong-bios": {
+      "exit": 1
+    }
+  },
+  "gui_interaction": "Hidden CI renderer startup/quit passed; no desktop automation or visual inspection. Launcher model contract tested separately."
+}

@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/mstan/gbarecomp.git",
+  "commit": "e3c834d399b66f5a823c2f0f9d878b62dc05d25a",
+  "reference_project": "https://github.com/mstan/MarioKartSuperCircuitRecomp",
+  "reference_commit": "79dffea318fbb9c3c2cfb10c33dd7ba190b2284b",
+  "tomlplusplus_repository": "https://github.com/marzer/tomlplusplus.git",
+  "tomlplusplus_commit": "30172438cee64926dc41fdd9c11fb3ba5b2ba9de",
+  "recomp_ui_repository": "https://github.com/mstan/recomp-ui.git",
+  "recomp_ui_commit": "6374aae201b930c97425718249f5d39b2275ca13"
+}
